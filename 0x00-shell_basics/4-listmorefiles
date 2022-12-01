@@ -1,2 +1,5 @@
 #!/bin/bash
 ls -la
+[master ba8611c] basic4
+ 1 file changed, 2 insertions(+)
+ create mode 100755 0x00-shell_basics/4-listmorefiles
