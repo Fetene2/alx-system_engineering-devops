@@ -1,4 +1,5 @@
 #!/bin/bash
 
-rt TRUEKNOWLEDGE=1209 | echo $((128 + $TRUEKNOWLEDGE))
 
+)
+rt TRUEKNOWLEDGE=1209 | echo $((128 + $TRUEKNOWLEDGE))
