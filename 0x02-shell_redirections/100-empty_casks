@@ -1,1 +1,2 @@
-#!/bin/bash
+#!/bin/bashi
+find . -empty -printf '%f\n'
